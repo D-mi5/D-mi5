@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Deyne+Michelle+!!​)](https://git.io/typing-svg)
 
 Atualmente estou em transição de carreira para a área de tecnologia, buscando crescimento profissional e novos desafios!
-- ✨ Cursos: Full Stack(Digital College)
+✨ Cursos:
+-  Full Stack(Digital College)
 - IA Softskills(Digital College)
     
 <div style="display: inline_block"><br>
