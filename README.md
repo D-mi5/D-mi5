@@ -2,7 +2,7 @@
 
 Atualmente estou em transição de carreira para a área de tecnologia, buscando crescimento profissional e novos desafios!
 
-->✨ Cursos:
+✨ Cursos:
 -  Full Stack(Digital College)
 - IA Softskills(Digital College)
     
